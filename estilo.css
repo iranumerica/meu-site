@@ -1,0 +1,29 @@
+.body1{
+background-color: #4B0082;
+color:#ffd700;
+}
+.title, .subtitle{
+text-align: center;
+position: relative;
+top: 250px;
+}
+.title{
+font-size: 90px;
+}
+.subtitle{
+font-size: 50px;
+}
+a{
+text-decoration: none;
+color: inherit;
+}
+a:hover{
+text-decoration: underline;
+color:cyan;
+}
+.body2{
+background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p1/13444879-ponto-de-interrogacao-sobre-fundo-branco-vetor.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-color: rgba(red, green, blue, alpha);
+}
